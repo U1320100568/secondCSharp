@@ -6,3 +6,5 @@ partial classes
 好處：可以多工，好維護  
  
  https://dotblogs.com.tw/dc690216/2010/03/13/14008
+ 
+#windows form
